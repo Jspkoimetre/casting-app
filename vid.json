@@ -4,7 +4,7 @@
             "name": "Movies",
             "hls":"https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/hls/",
             "dash":"https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/dash/",
-            "mp4":"https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/mp4/",
+            "mp4":"https://str14.vidoza.net/",
             "images":"https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/images/",
             "tracks":"https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/tracks/",
             "videos": [
