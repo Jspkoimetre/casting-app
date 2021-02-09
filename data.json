@@ -1,0 +1,34 @@
+{
+    "categories": [
+        {
+            "name": "Movies",
+            "hls": "https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/hls/",
+            "dash": "https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/dash/",
+            "mp4": "https://str14.vidoza.net/",
+            "images": "https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/images/",
+            "tracks": "https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/tracks/",
+            "videos": [
+                {
+                    "subtitle": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
+                    "sources": [
+                        {
+                            "type": "hls",
+                            "mime": "application/x-mpegurl",
+                            "url": "DesigningForGoogleCast.m3u8"
+                        },
+                        {
+                            "type": "dash",
+                            "mime": "application/dash+xml",
+                            "url": "DesigningForGoogleCast.mpd"
+                        },
+                        {
+                            "type": "mp4",
+                            "mime": "videos/mp4",
+                            "url": "nvl4ncyuxeeuieno3xmatw5mnoauciidyzcvh2srorv7wkddiilwhdultbkq/v.mp4"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
