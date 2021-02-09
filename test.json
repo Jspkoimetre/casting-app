@@ -4,8 +4,8 @@
             "name": "Movies",
             "hls":"https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/hls/",
             "dash":"https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/dash/",
-            "mp4":"https://str14.vidoza.net/",
-            "images":"https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/images/",
+            "mp4":"https://str20.vidoza.net/",
+            "images":"https://str20.vidoza.net/",
             "tracks":"https://commondatastorage.googleapis.com/gtv-videos-bucket/CastVideos/tracks/",
             "videos": [
                 {
@@ -24,13 +24,13 @@
                         {
                             "type": "mp4",
                             "mime": "videos/mp4",
-                            "url": "nvl4ncyuxeeuieno3xmatw5mnoauciidyzcvh2srorv7wkddiilwhdultbkq/v.mp4"
+                            "url": "nvl4xnyuxeeuieno3xmatch5oycc24m2fyypznpbbd4tyqzvamvelu6b2duq/v.mp4"
                         }
                     ],
-                    "thumb": "images/DesigningForGoogleCast-480x270.jpg",
-                    "image-480x270": "480x270/DesigningForGoogleCast2-480x270.jpg",
-                    "image-780x1200": "780x1200/DesigningForGoogleCast-887x1200.jpg",
-                    "title": "Designing For Google Cast",
+                    "thumb": "i/11/04735/b3yn85evta8b.jpg?v=1612904005",
+                    "image-480x270": "i/11/04735/b3yn85evta8b.jpg?v=1612904005",
+                    "image-780x1200": "i/11/04735/b3yn85evta8b.jpg?v=1612904005",
+                    "title": "Please fucking work",
                     "studio": "Google IO - 2014",
                     "duration" : 333,
                     "tracks": [
